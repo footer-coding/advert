@@ -43,7 +43,7 @@ body {
   --faq-item-bg: #f1f1f1;
   --faq-dec-bg: #ffffff;
   --submit-button-text: #ffffff;
-  --header-bg: url("bg2.jpg");
+  --header-bg: url("bg.png");
   --header-dim: linear-gradient(180deg, rgba(0, 0, 0, 0.425) 0%, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0.69) 100%);
   --nav-links-mobile: #000000;
 }
@@ -73,7 +73,7 @@ body {
     --faq-item-bg: #080808;
     --faq-dec-bg: #161616;
     --submit-button-text: #000000;
-    --header-bg: url("bg.jpg");
+    --header-bg: url("bg.png");
     --header-dim: linear-gradient(180deg, rgba(0, 0, 0, 0.33) 0%, rgba(0, 0, 0, 0.06) 50%, rgba(0, 0, 0, 0.69) 100%);
     --nav-links-mobile: #ffffff;
   }
